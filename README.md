@@ -1,32 +1,46 @@
-<h1 align="center">Hi 👋, I am Roshan Langhi  <img src="assets\stats.gif" width="50"></h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+![logo](header.png)
+<h1 align ="center">Hi There😉</h1>
 
-<a href="#" onclick="return false;">
-<img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTVmdzJsanFtM2tqMXU3bmFvcXJ0dnlwNXNoMnU3MzY1eXhjOXR1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i1JHRZSXO9LZZDHqii/giphy.gif" alt="MasterHead" style="max-width: 100%; height: auto; >
-</a>
-  <br/>
-<a href="#" onclick="return false;">
-  <img align="right" alt="GIF Example" src="/assets/CLine.gif">
-</a>
+🚀 Hey GitHub Enthusiasts ! Here is VENKY From Planet Earth 🌏 How Are You Mate !
 
-<a href="#" onclick="return false;">
-  <img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif">
-</a>
+<h2 align="center"><img src="https://github.com/Atharvkote/Atharvkote/blob/main/Assests/code.gif?raw=true" height="20"/>  My Tech Stack  <img src="https://github.com/Atharvkote/Atharvkote/blob/main/Assests/code.gif?raw=true" height="20"/></h2>
 
-### 🌟 About Me  
-🔭 I’m currently working on **Private Projects**  
-🌱 I’m currently learning **data structure algorithm**  
-👨‍💻 All of my projects are available at [My Portfolio](..)  
-💬 Ask me about **Web Development**  
-📫 Reach me at: **roshanlanghi28@gmail.com**  
-📄 Know about my experiences: [Resume](..)  
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,python,typescript,docker,kubernetes,graphql" />
+    <img src="https://skillicons.dev/icons?i=java,aws,arch,arduino,bash,blender,cpp,gcp,ubuntu " />
+    <br>
+</div>
 
+    
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> My GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></h2>
 
-<br/><br/>
-<h3 align="center">Connect with me:</h3>
+<div align=center>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/roshan-langhi-88b502304/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshan-langhi-88b502304" height="30" width="40" />
-  </a>
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=venkyguru5&count_private=true&show_icons=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&border_radius=20&hide_border=true"  width="48%"/>
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=venkyguru5&count_private=true&border_radius=20&ring=00bfbf&stroke=c9d1d9&background=0d1117&fire=00bfbf&currStreakNum=00bfbf&sideNums=00bfbf&sideNums=00bfbf&datesside=00bfbf&Labelscurr=00bfbf&currStreakLabel=00bfbf&sideLabels=00bfbf&dates=c9d1d9&border=c9d1d9&hide_border=true"  width="48%"/>
+</p>
+  <p align="center">
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=venkyguru5&hide=HTML&langs_count=8&layout=compact&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&border_radius=15&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true"width="70%"/> 
+</p>
+
+
+<div align="center">
+  <h3> Hope Loved The Profile Show Some Love ❤️ By Staring Some Repos</h3>
+   
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/shricastic/shricastic/output/github-contribution-grid-snake.svg" />
+  
+</div>
+
+### Profile Views
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=venkyguru5&style=for-the-badge&color=orange" alt=""/>
+</div>
+
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
