@@ -16,7 +16,7 @@
 ### 🌟 About Me  
 🔭 I’m currently working on **Private Projects**  
 🌱 I’m currently learning **data structure algorithm**  
-👨‍💻 All of my projects are available at [https://roshan00.netlify.app/](..)  
+👨‍💻 All of my projects are available at [my portfolio](https://roshan00.netlify.app/)  
 💬 Ask me about **Web Development**  
 📫 Reach me at: **roshanlanghi28@gmail.com**  
 📄 Know about my experiences: [Resume](..)  
