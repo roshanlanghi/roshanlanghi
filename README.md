@@ -1,31 +1,54 @@
-<h1 align="center">Hi 👋, I am Roshan Langhi  <img src="assets\stats.gif" width="50"></h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+# Hi there, I'm Roshan 👋
 
-<a href="#" onclick="return false;">
-<img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTVmdzJsanFtM2tqMXU3bmFvcXJ0dnlwNXNoMnU3MzY1eXhjOXR1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i1JHRZSXO9LZZDHqii/giphy.gif" alt="MasterHead" style="max-width: 100%; height: auto; >
-</a>
-  <br/>
-<a href="#" onclick="return false;">
-  <img align="right" alt="GIF Example" src="/assets/CLine.gif">
-</a>
+I'm a **Computer Engineering Student** with a passion for coding, problem-solving, and building projects that make a difference. I enjoy learning new technologies and applying them in real-world projects.  
 
-<a href="#" onclick="return false;">
-  <img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif">
-</a>
+---
 
-### 🌟 About Me  
-🔭 I’m currently working on **Private Projects**  
-🌱 I’m currently learning **data structure algorithm**  
-👨‍💻 All of my projects are available at [my portfolio](https://roshan00.netlify.app/)  
-💬 Ask me about **Web Development**  
-📫 Reach me at: **roshanlanghi28@gmail.com**  
-📄 Know about my experiences: [Resume](..)  
+## 🛠️ Skills & Technologies
 
+### Programming Languages
+- **C / C++** – Strong understanding of data structures and algorithms  
+- **Python** – Data analysis, scripting, automation, and data science projects  
+- **JavaScript** – Frontend development and DOM manipulation  
+- **SQL** – Database querying and management  
 
-<br/><br/>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/roshan-langhi-88b502304/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshan-langhi-88b502304" height="30" width="40" />
-  </a>
-</p>
+### Web Development
+- **HTML / CSS** – Responsive and clean web designs  
+- **JavaScript** – Dynamic and interactive web pages  
+
+### Data Science & Analysis
+- **Pandas, NumPy, Matplotlib, Seaborn** – Data manipulation and visualization  
+- **Machine Learning Basics** – Understanding of models and data processing  
+
+### Other Skills
+- **Problem Solving & Competitive Coding** – Love solving coding challenges  
+- **Version Control** – Git & GitHub  
+- **Project Development** – Building small to medium-scale projects with full-stack concepts  
+
+---
+
+## ⚡ Tools & Platforms
+- **VS Code, PyCharm, CodeBlocks** – IDEs for coding  
+- **Jupyter Notebook** – Python data science projects  
+- **Firebase** – Backend integration for web and IoT projects  
+- **Blynk / IoT** – Microcontroller projects  
+
+---
+
+## 🌱 I’m currently learning
+- Advanced **Data Structures & Algorithms**  
+- Full-stack development with **Node.js** and **React**  
+- **PHP & Backend** programming  
+- **IoT projects** with ESP32  
+
+---
+
+## 📫 Connect with Me
+- GitHub: [https://github.com/roshanlanghi](https://github.com/roshanlanghi)  
+- LinkedIn: [https://www.linkedin.com/in/roshanlanghi](https://www.linkedin.com/in/roshan-langhi)  
+
+---
+
+### 💻 Fun Fact
+I love **coding**, exploring **data science**, and experimenting with **web technologies**. Always excited to take up new challenges and improve my skills!  
+
